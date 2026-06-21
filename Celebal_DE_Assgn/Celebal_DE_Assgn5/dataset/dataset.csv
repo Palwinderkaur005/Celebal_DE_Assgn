@@ -1,0 +1,11 @@
+user_id,transaction_date,name,age,subscription,region,product_category,sale_amount,status,city,email,username,price,store_id,raw_timestamp
+101,2025-08-01,John,25,Premium,West,Electronics,500,Completed,New York,john@gmail.com,john123,500,1,2025-08-01 10:30:00
+102,2025-08-02,Alice,30,Basic,East,Clothing,300,,Chicago,alice@gmail.com,alice456,300,2,2025-08-02 11:15:00
+103,2025-08-03,Bob,22,Premium,West,Electronics,700,Completed,Los Angeles,bob@gmail.com,bob789,700,1,2025-08-03 09:45:00
+104,2025-08-04,David,28,Premium,South,Furniture,450,Pending,Houston,david@gmail.com,david123,450,3,2025-08-04 14:20:00
+105,2025-08-05,Eva,35,Basic,West,Clothing,250,,Phoenix,eva@gmail.com,eva567,,2,2025-08-05 08:30:00
+101,2025-08-01,John,25,Premium,West,Electronics,500,Completed,New York,john@gmail.com,john123,500,1,2025-08-01 10:30:00
+106,2025-08-06,Sam,19,Premium,West,Electronics,600,Completed,Chicago,,sam123,600,1,2025-08-06 12:45:00
+107,2025-08-07,Lisa,27,Premium,East,Furniture,550,Completed,New York,lisa@gmail.com,,550,3,2025-08-07 13:00:00
+108,2025-08-08,Mike,18,Premium,West,Electronics,400,Pending,Los Angeles,mike@gmail.com,mike999,400,2,2025-08-08 15:00:00
+109,2025-08-09,Sara,29,Basic,South,Clothing,350,Completed,Houston,sara@gmail.com,sara111,350,2,2025-08-09 16:20:00
