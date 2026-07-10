@@ -263,7 +263,7 @@ The repository contains screenshots for every major stage of the pipeline.
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Palwinderkaur005/Celebal_DE_Assgn/tree/main/Celebal_DE_Assgn/Celebal_DE_FinlPR
 ```
 
 ### 2. Open Databricks
